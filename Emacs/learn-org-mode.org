@@ -1,0 +1,71 @@
+#+TITLE: Learning org mode basics in DOOM Emacs
+#+AUTHOR: Vishal Adhithya
+#+DESCRIPTION: learning how org mode works
+
+* A new headline
+
+** this is level 2
+*** this is level 3
+**** this is level 4
+***** this is level 5
+****** this is level 6
+
+* Getting org mode
+Read org mode manual in with the keybing alt+x org-info
+** org-toogle-headline : SPC-m-h
+** org-toggle-item : SPC-m-i
++ Unordered list item one
++ Unordered list item two
+  - you can also use the minus symbol instead of +
+  - another list item
+    1. Ordered list item one.
+    2. Ordered list item two.
+* Motion
+** move left/down/up/right :h/j/k/l
+** next and previous heading : gj/gk or CTRL-j/k
+** move parent/child element : gh/gl
+
+* Structure Editing
+** insert new heading after the subtree : C-RET
+** promote/demote heading : M-h/l or M-LEFT/RIGHT
+** promote/demote current subtree : M-S-h/l OR M-S-LEFT/RIGHT
+** move subtree/list item up/down : M-j/k
+** move list item up/down but not subtree : M-S-j/k
+
+* Some Advanced Editing
+** select an element : vae
+** delete an element : dae
+** select a subtree  : vaR
+** delete a subtree  : daR
+** yank subtree      : yiR
+* Inserting snippets
+** SPC-i-s
+** bang : #!/usr/bin/env bash
+** current time : Tue Jan  5 18:58:06 2021
+** pi :
+
+* TODO
+** TODO example one
+SCHEDULED: <2021-01-05 Tue 16:00-18:00>
+** TODO example two
+*** keybindings to schedule and deadline is definded in alt+x
+
+* To create a checkbox : - [ ] [1/3] [33%]
+- [ ] chickens
+- [ ] eggs
+- [X] milk
+
+* Org Agenda
+** keybindings for org agends is SPC-o-A
+
+* Tables
+** Creating a table
+*** just start typing | NAME | PHONE | AGE |
+***** make a org table headline : SPC m b -
+***** duplicate a field in the cell below is : S-RET
+
+
+|   | ONE | TWO | THREE  | FOUR  |
+|---+-----+-----+--------+-------|
+|   | av  | va  | pacman | usman |
+|   | av  |     |        |       |
