@@ -1,0 +1,13 @@
+#+TITLE: Learn Dired
+
+** DIRED
++ DIRED Stands for directory editor.
++ You can move with you evil keybindings
++ You can use the opening parenthesis to switch between full view and side view.
++ You can go the subdirectory by pressing enter
++ You can got up by pressing -.
++ By pressing + you can create a directory.
++ You can delete file and folder with D and x to confirm.
++ You can use SPC . to create a file.
++ you can use o to go back
++ You can use M to modify file modes

@@ -1,0 +1,37 @@
+#+TITLE: agenda of the week
+
+* Task List
+** TODO learn about org-agenda
+SCHEDULED: <2021-01-07 Thu 21:00>
++ You can use SPC-m-t-t to mark as "TODO"
++ SPC-m-d-s opens the org-schedule.
++ Click on the date in the calendar
++ You can use S-ARROWS to change date of scheduled item.
++ In normal mode, RET toggles TODO and DONE
+
+** TODO Review list and checkboxes in org mode [0%] [0/3]
+SCHEDULED: <2021-01-06 Wed 20:00 ++1d>
+
++ [ ] CTRL-RET adds a new list items at the same level.
++ [-] This works for bullets too.
+  + [X] Sublist item 1
+  + [X] Sublist item 2
+  + [ ] Sublist item 3
++ [ ] Tick/untick with C-c C-c or SPC-m-x
+
+*  Personal Task List
+** HOME Task [0/4]
++ [ ] Mow the yard.
++ [ ] Put trash out for pickup.
++ [ ] Wash the Car.
+** TODO Shopping List
+SCHEDULED: <2021-01-07 Thu 08:00>
++ [ ] dog food
++ [ ] bacon
++ [ ] Milk
++ [ ] Water
+** DONE Gym Schedule
+CLOSED: [2021-01-06 Wed 20:08] SCHEDULED: <2021-01-07 Thu 09:00>--<2021-01-20 Tue 09:00>
++ [ ] Leg day
++ [ ] shoulders
++ [ ] abs
