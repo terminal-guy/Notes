@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journaling/20-06-2021.md",
+            "file": "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#version-change",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journaling/20-06-2021.md",
+                "file": "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +94,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "cd7ef1ad17f52617",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,15 +113,15 @@
   },
   "active": "f440c2236fb5941f",
   "lastOpenFiles": [
-    "Journaling/20-06-2021.md",
-    "Journaling/24-06-2021.md",
-    "README.md",
-    "Journaling/21-06-2021.md",
-    "21-06-2021.md",
-    "@tormorrow.md",
-    "Journaling/Untitled.md",
-    "Journaling/Sunday, June 20th 2021.md",
-    "Untitled 1.md",
-    "Untitled.md"
+    "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
+    "App Notes/Shop App - Sending Https Requests/How to connect Flutter to a Database.md",
+    "App Notes/Shop App - Sending Https Requests/Showing a Loading Indicator.md",
+    "App Notes/Shop App - Sending Https Requests/Untitled.md",
+    "App Notes/Shop App - Sending Https Requests/Working with Futures.md",
+    "App Notes/Shop App - Sending Https Requests/Using the Http Package.md",
+    "App Notes/Shop App - Sending Https Requests/Sending POST Requests.md",
+    "App Notes/Shop App - Sending Https Requests/Module Introduction.md",
+    "App Notes/Shop App - Sending Https Requests/How to Send Http Request.md",
+    "App Notes/Shop App - Sending Https Requests/On-Device - Web Storage.md"
   ]
 }
