@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cc739794fef67b4c",
+        "id": "f440c2236fb5941f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Journaling/20-06-2021.md",
             "mode": "source"
           }
         }
@@ -59,7 +59,7 @@
     "type": "split",
     "children": [
       {
-        "id": "406005263933489d",
+        "id": "719dba3169e1c4be",
         "type": "tabs",
         "children": [
           {
@@ -68,8 +68,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
-                "collapseAll": false,
+                "file": "Journaling/20-06-2021.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -78,24 +78,42 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d6527163151f6e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1297cfee77fbd835",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "cc739794fef67b4c",
+  "active": "f440c2236fb5941f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Journaling/20-06-2021.md",
+    "Journaling/24-06-2021.md",
+    "README.md",
+    "Journaling/21-06-2021.md",
+    "21-06-2021.md",
+    "@tormorrow.md",
+    "Journaling/Untitled.md",
     "Journaling/Sunday, June 20th 2021.md",
-    "Sunday, June 20th 2021.md",
-    "Obsidian/The Matrix.md",
-    "Obsidian/NoteStar.md",
-    "Obsidian/NeverNote.md",
-    "Red Pill, Blue Pill..md",
-    "Obsidian/Untitled.md",
-    "README.md"
+    "Untitled 1.md",
+    "Untitled.md"
   ]
 }
