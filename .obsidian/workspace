@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
+            "file": "Journaling/20-06-2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
+                "file": "Journaling/20-06-2021.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "f440c2236fb5941f",
   "lastOpenFiles": [
+    "Journaling/20-06-2021.md",
     "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
     "App Notes/Shop App - Sending Https Requests/How to connect Flutter to a Database.md",
     "App Notes/Shop App - Sending Https Requests/Showing a Loading Indicator.md",
@@ -121,7 +122,6 @@
     "App Notes/Shop App - Sending Https Requests/Using the Http Package.md",
     "App Notes/Shop App - Sending Https Requests/Sending POST Requests.md",
     "App Notes/Shop App - Sending Https Requests/Module Introduction.md",
-    "App Notes/Shop App - Sending Https Requests/How to Send Http Request.md",
-    "App Notes/Shop App - Sending Https Requests/On-Device - Web Storage.md"
+    "App Notes/Shop App - Sending Https Requests/How to Send Http Request.md"
   ]
 }
