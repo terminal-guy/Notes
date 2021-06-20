@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d819e3b661d114ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc739794fef67b4c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bae6685b3146270a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf088ede7fecad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aec7c5c110f98ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81a4a7669d09f773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c204ef7ec943185",
+    "type": "split",
+    "children": [
+      {
+        "id": "406005263933489d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90fceb16d56e049",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc739794fef67b4c",
+  "lastOpenFiles": [
+    "Journaling/Sunday, June 20th 2021.md",
+    "Sunday, June 20th 2021.md",
+    "Obsidian/The Matrix.md",
+    "Obsidian/NoteStar.md",
+    "Obsidian/NeverNote.md",
+    "Red Pill, Blue Pill..md",
+    "Obsidian/Untitled.md",
+    "README.md"
+  ]
+}
