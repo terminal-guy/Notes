@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f440c2236fb5941f",
+        "id": "590cd5f0b091e50f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journaling/20-06-2021.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#version-change",
+                "query": "tag:#journaling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journaling/20-06-2021.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +99,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f440c2236fb5941f",
+  "active": "590cd5f0b091e50f",
   "lastOpenFiles": [
-    "Journaling/20-06-2021.md",
+    "Random/High school group selecting day.md",
+    "Random/The Headmaster.md",
+    "Random/Selecting day.md",
+    "Random/I was in Waiting list.md",
+    "Random/Proud.md",
+    "I was in Waiting list.md",
     "Journaling/21-06-2021.md",
-    "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
-    "App Notes/Shop App - Sending Https Requests/How to connect Flutter to a Database.md",
-    "App Notes/Shop App - Sending Https Requests/Showing a Loading Indicator.md",
-    "App Notes/Shop App - Sending Https Requests/Untitled.md",
-    "App Notes/Shop App - Sending Https Requests/Working with Futures.md",
-    "App Notes/Shop App - Sending Https Requests/Using the Http Package.md",
-    "App Notes/Shop App - Sending Https Requests/Sending POST Requests.md",
-    "App Notes/Shop App - Sending Https Requests/Module Introduction.md"
+    "Journaling/20-06-2021.md",
+    "Random/Untitled.md",
+    "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md"
   ]
 }
