@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "d819e3b661d114ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "f440c2236fb5941f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journaling/20-06-2021.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bae6685b3146270a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf088ede7fecad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aec7c5c110f98ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81a4a7669d09f773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#version-change",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c204ef7ec943185",
+    "type": "split",
+    "children": [
+      {
+        "id": "719dba3169e1c4be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90fceb16d56e049",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journaling/20-06-2021.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6527163151f6e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1297cfee77fbd835",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd7ef1ad17f52617",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f440c2236fb5941f",
+  "lastOpenFiles": [
+    "Journaling/20-06-2021.md",
+    "Journaling/21-06-2021.md",
+    "App Notes/Shop App - Sending Https Requests/Futures vs Async Code.md",
+    "App Notes/Shop App - Sending Https Requests/How to connect Flutter to a Database.md",
+    "App Notes/Shop App - Sending Https Requests/Showing a Loading Indicator.md",
+    "App Notes/Shop App - Sending Https Requests/Untitled.md",
+    "App Notes/Shop App - Sending Https Requests/Working with Futures.md",
+    "App Notes/Shop App - Sending Https Requests/Using the Http Package.md",
+    "App Notes/Shop App - Sending Https Requests/Sending POST Requests.md",
+    "App Notes/Shop App - Sending Https Requests/Module Introduction.md"
+  ]
+}
