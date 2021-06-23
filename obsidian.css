@@ -14,3 +14,78 @@ ul ul::before { left: -11px; top: 0; bottom: 0;
 } 
 
 */
+
+blockquote:before {
+  font: 14px/20px italic Times, serif;
+  content: "“ ";
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+/* Remove blockquote left margin */
+blockquote {
+  margin-inline-start: 0;
+}
+
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-list-ul {
+color: transparent;
+position: relative;
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-list-ul:after {
+content: "•";
+position: absolute;
+top: -2px;
+left: 1px;
+color: var(--bright-aqua);
+font-family: sans-serif;
+font-size: 25px;
+}
+
+
+
+/* Naked Embeds */
+.markdown-embed-title { display: none; }
+.markdown-preview-view .markdown-embed-content>:first-child { margin-top: 0;}
+.markdown-preview-view .markdown-embed-content>:last-child { margin-bottom: 0;}
+
+/*remove the following two line, you will get border and scroll*/
+.markdown-preview-view .markdown-embed { border:none; padding:0; margin:0; }
+.markdown-preview-view .markdown-embed-content { 
+  max-height: unset;
+  border-radius: 15px;
+  background-color: var(--background-secondary); /*define different bg color*/
+}
+
+/* the link on the top right corner*/
+.markdown-embed-link {
+color: var(--text-faint) !important;
+}
+
+.markdown-embed-link:hover {
+color: var(--text-accent) !important;
+}
+
+
+.markdown-preview-view img {
+  display: block;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* experiment with values */
+  transition: transform 0.25s ease;
+}
+.markdown-preview-view img:hover {
+-webkit-transform: scale(1.8); /* experiment with values */
+transform: scale(2);
+}
+
+img {
+border-radius: 4px;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+background-color: var(--background-secondary); /* Background color so PNGs with transparent backgrounds don't look weird */
+}
