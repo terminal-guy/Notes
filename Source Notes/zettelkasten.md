@@ -4,7 +4,7 @@
 
 ## Brief History
 
-![[202106231843 - How to Take Smart Notes#^55526b]]
+![[How to Take Smart Notes#^55526b]]
 
 ---
 ## How He got this idea

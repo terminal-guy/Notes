@@ -13,7 +13,7 @@ It was first a just a youtube video from shu omi who uses roam research as his n
 was explained and written in a book called how to take smart notes and Got the audiobook 25 minute summary of it and that's enough to for me to get into zettelkasten method using obsidian.
 
 ## How the book Shaped me 
-It can be explained simply that it changed my workflow of taking notes. 
+It can be explained simply that it changed my workflow of taking notes.  ^fe3e3b
 
 ## Brief History
 

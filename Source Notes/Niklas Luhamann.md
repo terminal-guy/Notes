@@ -10,8 +10,8 @@ Nikas Luhamann is the known for his work. He published 70 books and 400 plus art
 - Evolution theory
 
 
-## How to I got to know about him
-I got him to know about in [[202106231843 - How to Take Smart Notes]] book he used this [[zettelkasten]] method to create more 70 books and 400 plus articles.
+## How do I got to know about him
+I got him to know about in [[How to Take Smart Notes]] book he used this [[zettelkasten]] method to create more 70 books and 400 plus articles.
  
 ## Thoughts for him
 I didn't really read any book yet from [[Niklas Luhamann]] I knew him in how to take smart notes But thinking forward to see his creating.
@@ -19,3 +19,5 @@ I didn't really read any book yet from [[Niklas Luhamann]] I knew him in how to 
 	-	The poineer [Conrad Gessner](https://en.wikipedia.org/wiki/Conrad_Gessner) didn't have the hype in the book. He got the hype cuz he did something create with the method
 	-	About the poineer nobody known's about him except the wikipedia page.
 
+## How He Changed Me
+![[How to Take Smart Notes#^fe3e3b]]
