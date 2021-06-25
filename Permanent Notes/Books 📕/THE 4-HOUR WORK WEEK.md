@@ -19,10 +19,41 @@ This is my first book and it change my life drastically like how I think about m
 
 - Changed my life by being a entreprener instead of employee.
 - Changed my behavior of not giving love the people and focusing on my own stuff. It Thought me how small is life to live and how big it's to live and how to get the most out of it.
-- It generally thought me how to live life without a hassle of 9to5. I took Commerce/Computer Application for high school and not taking Maths and computer science and be a employee on a IT Company.
+- It generally thought me how to live life without a hassle of 9to5. I took Commerce/Computer Application for high school and not taking Maths and computer science and be a employee on a IT Company. ^cebe20
 - This book had made me realize that how was focusing on the trival things and not focusing on the Main things.
 
 ## My Favorite Quotes #
  - ## ![](Quotes)
+
+
+ 
+
+
+
+# Summary + Notes
+
+## A new way of Living in the world
+### Summary
+The world is better than 9to5. The world has more to live and enjoy book made many things in my life right. And made me to leave the things that wasn't right in my life. This book made to stop living the employee livestyle and Live the **NEW RICH** life style.
+
+> Imagine your life taking orders from your boss forever like slave life with money paid and no time to spend with your household. 
+
+I learned many things from the book the best were [[80-20 principle]] and [[parkinsons's Law]] and How to cut down the hours from the work and outsource your life and eliminate unproductive things.
+
+### Notes and review
+
+-	[[Retirement Is Worst-Case Scenario Insurance]]
+
+-	[[W's that control your life]]
+
+-	[[Emphasize Strengths, Don't Fix Weaknesses]]
+
+- [[Distress is Bad, Eustress is Good]]
+
+- [[Page 37 Questions and Actions]]
+
+- [[Nightmares and worstcase Scenario]]
+
+- [[Charney and Page 80 Questions and Actions]]
 
 
