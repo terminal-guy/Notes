@@ -37,3 +37,9 @@
 	- ![](https://images-eu.ssl-images-amazon.com/images/I/41SkDwTxQoL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg)
 - [ ] Never Split the Difference
 	- ![](https://images-na.ssl-images-amazon.com/images/I/51scWnDay7S._SX323_BO1,204,203,200_.jpg)
+
+- [ ]  Show Your Work!
+	- ![](https://images-na.ssl-images-amazon.com/images/I/71MTgEEjNVL.jpg)
+
+- [ ] Rejection Proof
+	- ![](https://images-eu.ssl-images-amazon.com/images/I/51JxpGq9Q5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg)
