@@ -1,4 +1,5 @@
-# How to Take Smart Notes #source
+# How to Take Smart Notes #book #done #evergreen
+
 
 #### How to Take Smart Notes by Sönke Ahrens.
 ![](https://images-na.ssl-images-amazon.com/images/I/71MXK4SZnaL.jpg)
