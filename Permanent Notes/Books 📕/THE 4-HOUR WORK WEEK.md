@@ -23,7 +23,7 @@ This is my first book and it change my life drastically like how I think about m
 - This book had made me realize that how was focusing on the trival things and not focusing on the Main things.
 
 ## My Favorite Quotes #
- - ## ![](Quotes)
+ - ## ![[Quotes#Quotes - 4 HOUR-WORK-WEEK]]
 
 
  
@@ -40,7 +40,7 @@ The world is better than 9to5. The world has more to live and enjoy book made ma
 
 I learned many things from the book the best were [[80-20 principle]] and [[parkinsons's Law]] and How to cut down the hours from the work and outsource your life and eliminate unproductive things.
 
-### Notes and review
+### Notes preview
 
 [[Notes preview - 4 HOUR WORK WEEK]]
 
@@ -71,3 +71,7 @@ I learned many things from the book the best were [[80-20 principle]] and [[park
 - [[Types of Mistakes From 4 hour work week]]
 
 
+## Info 
+- Purchased Date: 28 march
+- Finished Date: [[24-06-2021]]
+- Status: #Finished 
