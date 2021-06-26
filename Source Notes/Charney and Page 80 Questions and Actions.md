@@ -14,4 +14,4 @@ From [[26-06-2021]] I am going to start a new project in Django for my blog and 
 2. I would enjoy myself that i build from the outsourcing income from my blog and other ideas.
 3. I like to read books. I will read more instead of procrastinating more in the afternoon. 
 4. Reading books And writing.
-5. My mother. postive and my father sometimes get's me anger and but I love him. I stoppped hanging out with my street friends. - negative.
+5. My mother. postive and my father sometimes get's me anger and but I love him. I stoppped hanging out with my street friends. - postive.

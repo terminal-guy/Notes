@@ -42,11 +42,15 @@ I learned many things from the book the best were [[80-20 principle]] and [[park
 
 ### Notes and review
 
--	[[Retirement Is Worst-Case Scenario Insurance]]
+[[Notes preview - 4 HOUR WORK WEEK]]
 
--	[[W's that control your life]]
+### Reference for Notes
 
--	[[Emphasize Strengths, Don't Fix Weaknesses]]
+- [[Retirement Is Worst-Case Scenario Insurance]]
+
+- [[W's that control your life]]
+
+- [[Emphasize Strengths, Don't Fix Weaknesses]]
 
 - [[Distress is Bad, Eustress is Good]]
 
@@ -55,5 +59,15 @@ I learned many things from the book the best were [[80-20 principle]] and [[park
 - [[Nightmares and worstcase Scenario]]
 
 - [[Charney and Page 80 Questions and Actions]]
+
+- [[80-20 principle]]
+
+- [[parkinsons's Law]]
+
+- [[LOW INFORMATION DIET AND THE ART OF NON-FINISHING]]
+
+- [[The Way Being Middle Class for your life]]
+
+- [[Types of Mistakes From 4 hour work week]]
 
 

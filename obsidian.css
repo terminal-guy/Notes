@@ -1,11 +1,10 @@
 
 /* Bullet Point Indentation */
 
-/*
 .cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
 .cm-hmd-list-indent .cm-tab::before, ul ul::before {
  content:'';
- border-left: 1px solid rgba(0, 122, 255, 0.25);
+ border-left: 1px solid #4D3CA6;
  position: absolute;
 }
 .cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px; 
@@ -13,7 +12,6 @@
 ul ul::before { left: -11px; top: 0; bottom: 0; 
 } 
 
-*/
 
 blockquote:before {
   font: 14px/20px italic Times, serif;
