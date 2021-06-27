@@ -21,10 +21,12 @@
 
 ## Evening Reflections
 - **How you felt today?**
-	-	
+	- 
+- **Am I being Productive or Just Active for the Day?**
+	- 
 - **What could have done better?**
 	-	
-- ** Amazing Things that happened {{date}}**		
+- ** Amazing Things that happened Today**		
 	-	
 - **What progress did I make toward my goal? **
 	- 

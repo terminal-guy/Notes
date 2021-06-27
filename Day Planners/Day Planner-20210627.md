@@ -5,6 +5,6 @@
 
 # todo List #todo 
 - [ ] Check for textblaze it's a alternative app for mac.
-- [ ] Need to make a template for daily journaling
+- [x] Need to make a template for daily journaling
 
 
