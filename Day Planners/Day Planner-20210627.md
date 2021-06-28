@@ -4,9 +4,9 @@
 
 
 # todo List #todo 
-- [ ] Check for textblaze it's a alternative app for mac.
-- [ ] Check on Calendy
-- [ ] https://www.jotform.com/
+- [x] Check for textblaze it's a alternative app for mac.
+- [x] Check on Calendy
+- [x] https://www.jotform.com/
 - [x] Need to make a template for daily journaling
 
 

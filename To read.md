@@ -5,6 +5,10 @@
 
 - [ ] Tribe of Mentors
 	- ![](https://images-eu.ssl-images-amazon.com/images/I/51lCGlVV7HL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg)
+	
+- [ ] [[Surely You're Joking, Mr. Feynman!]]
+	- ![](https://images-eu.ssl-images-amazon.com/images/I/51RHxkOx-7L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg)
+	
 - [ ] Tools of Titans
 	-  ![](https://images-na.ssl-images-amazon.com/images/I/51GiZ9gKyML._SX324_BO1,204,203,200_.jpg)
 
