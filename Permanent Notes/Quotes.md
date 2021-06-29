@@ -1,4 +1,4 @@
-# Quotes
+# Quotes #evergreen
 
 ## Quotes - [[THE 4-HOUR WORK WEEK]]
 

@@ -1,7 +1,7 @@
 # Jia Jang #source #bio #inspire 
 ![](https://tinyurl.com/2am3rur8)
 
-## [[Jia jang]] is known for his book Rejection Proof.
+## [[Jia Jang]] is known for his book Rejection Proof.
 
 ![](https://img1.od-cdn.com/ImageType-400/0887-1/A25/ECF/75/%7BA25ECF75-431B-4EC4-8F33-223E587A0A82%7DImg400.jpg)
 
