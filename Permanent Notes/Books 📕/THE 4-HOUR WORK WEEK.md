@@ -23,7 +23,7 @@ This is my first book and it change my life drastically like how I think about m
 - This book had made me realize that how was focusing on the trival things and not focusing on the Main things.
 
 ## My Favorite Quotes #
- - ## ![[Quotes#Quotes - 4 HOUR-WORK-WEEK]]
+ - ## ![[Quotes#Quotes - THE 4-HOUR WORK WEEK]]]
 
 
  

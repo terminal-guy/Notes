@@ -1,8 +1,6 @@
 # Quotes
 
-## Quotes - 4 HOUR-WORK-WEEK
-
-^911383
+## Quotes - [[THE 4-HOUR WORK WEEK]]
 
 - > The first principle is that you must not fool yourself, and you are the easiest person to fool. - [[Richard Feyman]], Nobel Price - winning physicist
 
@@ -25,3 +23,7 @@
 
 > If you don't make mistakes, you're not working not had enough problems. And that's a big mistake.
 
+
+## Quote - [[The ONE Thing]]
+> It is not that we have too little time to do all the tings we need to to,
+>> It is that we feel the need to do too many things in the time we have. - GARY  KELLER 
