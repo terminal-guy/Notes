@@ -87,3 +87,74 @@ border-radius: 4px;
 box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 background-color: var(--background-secondary); /* Background color so PNGs with transparent backgrounds don't look weird */
 }
+
+.tag[href="#evergreen"]:after {
+  font-size: var(--font-tag-preview-size);
+  background-color: #c0cdf3;
+  font-weight: 900;
+  padding: 3px 5px;
+  border-radius: 10px;
+  letter-spacing: -0.05ch;
+  content: "🌲";
+}
+
+
+.tag {
+  font-size: var(--font-tag-preview-size);
+  font-weight: 900;
+  background-color: #c0cdf3;
+  padding: 3px 5px;
+  border-radius: 10px;
+  letter-spacing: -0.05ch;
+}
+
+
+
+
+/* Support for https://github.com/liamcain/obsidian-calendar-plugin */
+#calendar-container {
+  --color-text-today: #c3e88d;
+  --color-text-weeknum: rgba(122, 136, 207, 0.8);
+  --color-arrow: #7a88cf;
+  --color-dot: rgba(195, 232, 141, 0.5);
+}
+#calendar-container .year {
+  color: #7a88cf;
+}
+
+
+
+.status-bar {
+  background-color: #c0cdf3;
+  border-radius: 20px;
+  font-size: 14px;
+  font-family: Avenir;
+  font-style: italic;
+  color: #4D3CA6;
+}
+
+
+
+.prompt {
+  background-color: #c0cdf3;
+  border: 1px solid #131421;
+}
+.prompt .prompt-input {
+  font-size: var(--font-prompt-size);
+  background-color: #c0cdf3;
+  border-radius: 15px;
+  border-color: #c0cdf3;
+}
+.prompt .prompt-results .suggestion-item {
+  padding: 8px 10px;
+  font-size: var(--font-prompt-size);
+  margin-right: 2px;
+  border-radius: 10px;
+}
+.prompt .prompt-results .suggestion-item.is-selected {
+  background-color: #7a88cf;
+}
+.prompt .prompt-instructions {
+  border-top: 1px solid #7a88cf;
+  color: #7a88cf;
+}
