@@ -158,3 +158,8 @@ background-color: var(--background-secondary); /* Background color so PNGs with 
   border-top: 1px solid #7a88cf;
   color: #7a88cf;
 }
+
+:root {
+  --default-font: "Dear Sans", sans-serif;
+  --code-mono-font: 'Source Code Pro', sans-serif;
+}

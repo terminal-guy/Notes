@@ -7,7 +7,7 @@
 > It was something wanted, and we decided there was no point in putting it off. The timing is never right to have a baby.
 >> And so it is for quitting you job. -  4-HOUR WORK WEEK, by [[Tim Ferris]]
 >> 
-> The first principle is that you must not fool yourself, and you are the easiest person to fool. - [[Richard Feyman]], Nobel Price - winning physicist
+
 
 > Beg for forgiveness, don't ask for permission. -  4-HOUR WORK WEEK, by [[Tim Ferris]]
 
