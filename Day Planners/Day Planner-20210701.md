@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 6:57:14 PM
+    %% Current Time: 8:11:02 PM
     section Tasks
     personal things.     :06-00, 30mm
     start work on django for [[Blog]]     :06-30, 150mm
