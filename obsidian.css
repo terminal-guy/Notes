@@ -102,7 +102,7 @@ background-color: var(--background-secondary); /* Background color so PNGs with 
 .tag {
   font-size: var(--font-tag-preview-size);
   font-weight: 900;
-  background-color: #c0cdf3;
+  background-color: #18191a;
   padding: 3px 5px;
   border-radius: 10px;
   letter-spacing: -0.05ch;
@@ -124,40 +124,9 @@ background-color: var(--background-secondary); /* Background color so PNGs with 
 
 
 
-.status-bar {
-  background-color: #c0cdf3;
-  border-radius: 20px;
-  font-size: 14px;
-  font-family: Avenir;
-  font-style: italic;
-  color: #4D3CA6;
-}
 
 
 
-.prompt {
-  background-color: #c0cdf3;
-  border: 1px solid #131421;
-}
-.prompt .prompt-input {
-  font-size: var(--font-prompt-size);
-  background-color: #c0cdf3;
-  border-radius: 15px;
-  border-color: #c0cdf3;
-}
-.prompt .prompt-results .suggestion-item {
-  padding: 8px 10px;
-  font-size: var(--font-prompt-size);
-  margin-right: 2px;
-  border-radius: 10px;
-}
-.prompt .prompt-results .suggestion-item.is-selected {
-  background-color: #7a88cf;
-}
-.prompt .prompt-instructions {
-  border-top: 1px solid #7a88cf;
-  color: #7a88cf;
-}
 
 :root {
   --default-font: "Dear Sans", sans-serif;
