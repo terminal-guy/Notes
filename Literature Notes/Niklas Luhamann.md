@@ -1,4 +1,4 @@
-# Niklas Luhamann #source #bio #inspire
+# Niklas Luhamann #Literature  #bio #inspire
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luhmann.png/600px-Luhmann.png)
 

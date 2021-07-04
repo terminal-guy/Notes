@@ -1,4 +1,4 @@
-# THE 4-HOUR WORK WEEK #book #done #Productivity #Literature 
+# THE 4-HOUR WORK WEEK #book #done #Productivity #evergreen  
 
 THE 4-HOUR WORK WEEK by [[Tim Ferris]]
 
@@ -75,3 +75,4 @@ I learned many things from the book the best were [[80-20 principle]] and [[park
 - Purchased Date: 28 march
 - Finished Date: [[24-06-2021]]
 - Status: #Finished 
+- Type: [[Books]] [[Life Direction]] [[Ideas]] [[Productivity]] 

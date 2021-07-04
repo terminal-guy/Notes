@@ -1,4 +1,4 @@
-# [[Jia Jang]] #inspire #source #tedtalk
+# [[Jia Jang]] #inspire #Literature  #tedtalk
 
 [[Jia Jang]] the author of [[Rejection Proof]] 
 

@@ -1,4 +1,4 @@
-# How to Take Smart Notes #book #done #Literature #Productivity 
+# How to Take Smart Notes #book #done #evergreen  #Productivity 
 
 
 #### How to Take Smart Notes by Sönke Ahrens.
@@ -27,3 +27,8 @@ It was got it's popularity by [[Niklas Luhamann]] he developed his future by usi
 ![[zettelkasten]]
 
 
+## Info 
+- Purchased Date: [[23-06-2021]]
+- Finished Date: [[24-06-2021]]
+- Status: #Finished 
+- Type: [[Books]]  [[Ideas]] [[Productivity]] 

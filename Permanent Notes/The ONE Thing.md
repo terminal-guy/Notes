@@ -1,4 +1,4 @@
-# The One Thing #Literature #book #done 
+# The One Thing #evergreen  #book #done 
 **The ONE ThingGary Keller and Jay Papasan**
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41tB+pEx-5L._SY344_BO1,204,203,200_.jpg)
@@ -53,6 +53,7 @@ This book only has one gear and that you could pull out the focusing question an
 - Purchased Date: [[27-06-2021]]
 - Finished Date: [[27-06-2021]]
 - Status: #Finished 
+- Type: [[Productivity]] [[Books]] 
 
 
 

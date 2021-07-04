@@ -1,4 +1,4 @@
-# ZettelKasten #source 
+# ZettelKasten #Literature  
 
 ^d0f01e
 
