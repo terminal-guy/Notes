@@ -6,4 +6,4 @@
 
 
 ## Todo list #todo
-- [ ] check for Professor Sir Ludwig Guttmann
+- [x] check for Professor Sir Ludwig Guttmann

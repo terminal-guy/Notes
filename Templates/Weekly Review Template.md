@@ -1,3 +1,14 @@
+## Habit Tracker 
+| Days In Week                 | Meditate | Jogging | Reading | Exercise | Sleep bef 9:30 |
+| ---------------------------- | -------- | ------- | ------- | -------- | -------------- |
+| [[{{monday:DD-MM-gggg}}]]    |          |         |         |          |                |
+| [[{{tuesday:DD-MM-gggg}}]]   |          |         |         |          |                |
+| [[{{wednesday:DD-MM-gggg}}]] |          |         |         |          |                |
+| [[{{wednesday:DD-MM-gggg}}]] |          |         |         |          |                |
+| [[{{friday:DD-MM-gggg}}]]    |          |         |         |          |                |
+| [[{{saturday:DD-MM-gggg}}]]  |          |         |         |          |                |
+| [[{{sunday:DD-MM-gggg}}]]                             |          |         |         |          |                |
+
 ## Week at a Glance
 
 ![[{{monday:DD-MM-gggg}}]]
