@@ -12,8 +12,8 @@
 - [ ] Surely You're Joking, Mr. Feynman!
 	- ![](https://images-eu.ssl-images-amazon.com/images/I/51RHxkOx-7L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg)
 	
-- [ ] Tools of Titans
-	-  ![](https://images-na.ssl-images-amazon.com/images/I/51GiZ9gKyML._SX324_BO1,204,203,200_.jpg)
+- [ ] The great gatsby
+	-  ![](https://m.media-amazon.com/images/I/41XMaCHkrgL.jpg)
 
 - [ ] The Ride of a Lifetime 
 	- ![](https://images-na.ssl-images-amazon.com/images/I/41gr0fllE9L._SX327_BO1,204,203,200_.jpg)
@@ -50,3 +50,4 @@
 
 - [ ] Rejection Proof
 	- ![](https://images-eu.ssl-images-amazon.com/images/I/51JxpGq9Q5L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg)
+- [ ] Man searching for meaning

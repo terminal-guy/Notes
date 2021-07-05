@@ -4,7 +4,7 @@
 .cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
 .cm-hmd-list-indent .cm-tab::before, ul ul::before {
  content:'';
- border-left: 1px solid #4D3CA6;
+ border-left: 1px solid #899FC2;
  position: absolute;
 }
 .cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px; 
